@@ -6,7 +6,7 @@ pragma solidity ^0.4.18;
 // Deployed to : 0xD0FDf2ECd4CadE671a7EE1063393eC0eB90816FD
 // Symbol      : FWD
 // Name        : bitfwd Token
-// Total supply: Gazillion
+// Total supply: 50000000000000
 // Decimals    : 18
 //
 // Enjoy.
